@@ -1,10 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-Trabalho MEF 1
 
 @author: César Eduardo Petersen
 
-@date: %(date)s
+@date: 18/08/2021
 
 Utiliza o método dos elementos finitos para resolver um pórtico
 
@@ -55,8 +54,6 @@ F += ForcaNodal(H, 0)
 b0 = Barra(A, D, mat)
 b1 = Barra(B, D, mat)
 b2 = Barra(D, E, mat)
-#b3 = Barra(F, E, mat)
-#b4 = Barra(C, F, mat)
 b3 = Barra(E, F, mat)
 b4 = Barra(F, C, mat)
 b5 = Barra(E, G, mat)
