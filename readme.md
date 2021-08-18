@@ -6,8 +6,8 @@ Utiliza os polinômios interpoladores cúbicos de Hermite para aproximar os elem
 
 ## Exemplo
 
-![Esquema da Estrutura](./esquema.png)
-![Deformada da Estrutura](./deformada.png)
-![Diagrama de Momento](./momento.png)
-![Diagrama de Cortante](./cortante.png)
-![Diagrama de Normal](./normal.png)
+![Esquema da Estrutura](imgs/esquema.png)
+![Deformada da Estrutura](imgs/deformada.png)
+![Diagrama de Momento](imgs/momento.png)
+![Diagrama de Cortante](imgs/cortante.png)
+![Diagrama de Normal](imgs/normal.png)
